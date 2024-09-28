@@ -1,8 +1,8 @@
 # Watchers-App
 The repository for the Watchers App project. An application for publishing and organizing movie recommendation data for users to find the next suitable movies to watch on any occasion. This is programmed using Flutter/Dart and developed using the Android Studio platform. I personally contributed to the UI structure and basic interface of the application.
 
-Language Used: Flutter/Dart
-Platform: Android Studio
+* Language Used: Flutter/Dart
+* Platform: Android Studio
 
 # UI (Sample pages)
 ![460670857_908802987761059_9110984294759406803_n](https://github.com/user-attachments/assets/0bec8e12-32ad-433f-87e0-1cf55529d68e)
